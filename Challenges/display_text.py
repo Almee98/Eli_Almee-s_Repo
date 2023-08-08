@@ -1,4 +1,6 @@
 import hashlib
+
+from direct.showbase.ShowBaseGlobal import aspect2d
 from panda3d.core import TextNode
 from direct.showbase.ShowBase import ShowBase
 
